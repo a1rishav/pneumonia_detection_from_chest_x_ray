@@ -24,7 +24,7 @@ F1-Score      : 86.04%
 ## Examples
 
   - Normal detected as normal
-  ![alt text](https://github.com/a1rishav/pneumonia_detection_from_chest_x_ray/blob/master/images/normal.png)
+  - ![alt text](https://github.com/a1rishav/pneumonia_detection_from_chest_x_ray/blob/master/images/normal.png)
   
   - Pneumonia detected as normal
-  ![alt text](https://github.com/a1rishav/pneumonia_detection_from_chest_x_ray/blob/master/images/pneumonia.png)
+  - ![alt text](https://github.com/a1rishav/pneumonia_detection_from_chest_x_ray/blob/master/images/pneumonia.png)
