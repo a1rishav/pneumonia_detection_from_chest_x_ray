@@ -1,0 +1,1 @@
+Download dataset from this kaggle link --> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
